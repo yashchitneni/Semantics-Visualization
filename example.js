@@ -1,8 +1,5 @@
 $(document).ready(function () {
 
-
-    // Need to place the xdomain and ydomain in a specific function
-
     var symbolTypes = {
         "triangleDown": d3.svg.symbol().type("triangle-down"),
         "triangleUp": d3.svg.symbol().type("triangle-up"),
